@@ -18,7 +18,7 @@ You will also need to have software installed to run and execute an [iPython Not
 
 ### Code
 
-Template code is provided in the `credit_scoring.ipynb` notebook file. You will also be required to  the `LoanStats_2017Q4.csv` dataset file to execute the project.
+Template code is provided in the `credit_scoring.ipynb` notebook file. You will also be required the `LoanStats_2017Q4.csv` dataset file to execute the project.
 
 ### Run
 
